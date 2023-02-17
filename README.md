@@ -1,1 +1,1 @@
-hopp.
+ez az első git repo, ez csak egy gyakorlás.
