@@ -1,2 +1,3 @@
 ez egy másik fontos dokumentum.
 ez egy új sör.
+ez egy hibajavított sor.
