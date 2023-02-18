@@ -4,3 +4,4 @@ ez egy hibajavított sor.
 egy új sör.
 módosítás
 újabb módosítás
+ez a módosítás a webes felületen történt.
